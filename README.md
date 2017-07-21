@@ -1,2 +1,2 @@
 # GenTemplate
-It is my first Wordpress plugin built;
+Wordpress plugin for generate html template.;
