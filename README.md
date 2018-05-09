@@ -1,7 +1,8 @@
 # WP-Gen-Template
 WP-Gen-Template is a sample Wordpress plugin for generate html template.;
 
-== About Plugin ==
+About Plugin
+-----------
 
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: chaksaray.com
